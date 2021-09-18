@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/KULIAH/SEMESTER 3/pemograman perangkat bergerak/praktikum/Pertemuan 2/IntentExplicit/app/src/main/res/layout/activity_main.xml" value="0.2641025641025641" />
+        <entry key="..\:/KULIAH/SEMESTER 3/pemograman perangkat bergerak/praktikum/Pertemuan 2/IntentExplicit/app/src/main/res/layout/activity_second.xml" value="0.26452991452991453" />
+        <entry key="..\:/KULIAH/SEMESTER 3/pemograman perangkat bergerak/praktikum/pertemuan1/IntentExplicit/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/KULIAH/SEMESTER 3/pemograman perangkat bergerak/praktikum/pertemuan1/IntentExplicit/app/src/main/res/layout/activity_second.xml" value="0.18113208199022698" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15_PREVIEW" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
